@@ -28,7 +28,7 @@ To restore connections, we:
 
 ## Footnotes
 <ol start="0">
-  <li>Ktrinko (2011). World map made with natural earth data. Retrieved 2020-09-09 from <ins><a href="https://commons.wikimedia.org/wiki/File:Eckert4.jpg">here</a></ins>.</li>
+  <li>Image credit: Ktrinko (2011). World map made with natural earth data. Retrieved 2020-09-09 from <ins><a href="https://commons.wikimedia.org/wiki/File:Eckert4.jpg">here</a></ins>.</li>
 </ol>
 
 [^1]: International Labor Organization (2018). ILO Global Estimates on International Migrant Workers – Results and Methodology. Retrieved 2020-09-09 from [here](https://www.ilo.org/global/publications/books/WCMS_652001/lang--en/index.htm).

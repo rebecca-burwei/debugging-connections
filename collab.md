@@ -8,7 +8,12 @@ form: true
 
 # Want to collaborate? 
 
-We're open to creative ideas from guest posting to data deep dives to facilitating workshops. We're up for almost anything that aligns with our [vision and scope]({{ site.baseurl }}{% link about.md %}).
+We're open to creative ideas from data deep dives to facilitating workshops. We're up for almost anything that aligns with our [vision and scope]({{ site.baseurl }}{% link about.md %}).
+
+We're especially interested in:
+* Community discussions related to blog post topics
+* Translation and localization
+* Interviewing and elevating cross-border stories
 
 Just [drop us a line](mailto:{{ site.email }}?subject=let's work together)!
 
