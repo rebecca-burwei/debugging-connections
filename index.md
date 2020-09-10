@@ -18,6 +18,7 @@ Check out our top posts:
 Check out our [vision]({{ site.baseurl }}{% link about.md %}), propose a [guest post](mailto:{{ site.email }}?subject=guest post), or [collaborate]({{ site.baseurl }}{% link collab.md %}) with us.
 
 # Credits
-* Blog masthead - Diego Rivera, <ins>[Detroit Industry Murals](https://en.wikipedia.org/wiki/Detroit_Industry_Murals)</ins>
-* Collab masthead - Frida Kahlo, <ins>[Las Dos Fridas](https://es.wikipedia.org/wiki/Las_dos_Fridas)</ins>
-* Website - Rebecca BurWei with help from the open-source jekyll community, <ins>[get the code](https://github.com/rebecca-burwei/debugging-connections)</ins>
+* Blog masthead - Diego Rivera, <ins>[Detroit Industry Murals](https://en.wikipedia.org/wiki/Detroit_Industry_Murals)</ins>.
+* About masthead - Royal Sumikat, <ins>[Future Tribez](https://alternateroyality.com/portfolio/murals/)</ins>.
+* Collab masthead - Frida Kahlo, <ins>[Las Dos Fridas](https://es.wikipedia.org/wiki/Las_dos_Fridas)</ins>.
+* Website - Rebecca BurWei with help from the open-source jekyll community, <ins>[get the code](https://github.com/rebecca-burwei/debugging-connections)</ins>.

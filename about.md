@@ -6,7 +6,7 @@ background: '/img/bg-about.jpg'
 foreground: '/img/fg-about.jpg'
 ---
 
-Every year, millions of people move across the world for work. Over 164 million people are im/migrant workers, according to the International Labor Organization[^1]. In the past few decades, the number of people moving because of the tech industry has increased dramatically.<br /><br />
+Every year, millions of people move across the world for work. Over 164 million[^1] people are im/migrant workers, and the number moving because of the tech industry has increased dramatically.<br /><br />
 
 ![world map]({{ page.foreground | prepend: site.baseurl | replace: '//', '/' }}){:style="width:100%"}
 
@@ -30,6 +30,7 @@ To restore connections, we:
 <ol start="0">
   <li>Ktrinko (2011). World map made with natural earth data. Retrieved 2020-09-09 from <ins><a href="https://commons.wikimedia.org/wiki/File:Eckert4.jpg">here</a></ins>.</li>
 </ol>
+
 [^1]: International Labor Organization (2018). ILO Global Estimates on International Migrant Workers – Results and Methodology. Retrieved 2020-09-09 from [here](https://www.ilo.org/global/publications/books/WCMS_652001/lang--en/index.htm).
 
 [^2]: Why do we call some people expats and others immigrants? Expat, short for expatriate, colloquially refers to a person from a rich country, typically a working professional or a retiree. Immigrants, on the other hand, usually refer to people from poor countries, regardless of job or skill. These labels assume people from poor countries should assimilate and break ties with their home countries, while upper-class people from rich countries retain their national identities and resist integration with local communities.
