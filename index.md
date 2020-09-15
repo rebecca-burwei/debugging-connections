@@ -15,7 +15,7 @@ Check out our top posts:
 
 
 # Want more? 
-Check out our [vision]({{ site.baseurl }}{% link about.md %}), propose a [guest post](mailto:{{ site.email }}?subject=guest post), or [collaborate]({{ site.baseurl }}{% link collab.md %}) with us.
+Check out our [vision]({{ site.baseurl }}{% link about.md %}), propose a [guest post](mailto:{{ site.email }}?subject=guest post), or reach out to [collaborate]({{ site.baseurl }}{% link collab.md %}).
 
 # Credits
 * Blog masthead - Diego Rivera, <ins>[Detroit Industry Murals](https://en.wikipedia.org/wiki/Detroit_Industry_Murals)</ins>.

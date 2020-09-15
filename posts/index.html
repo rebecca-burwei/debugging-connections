@@ -18,7 +18,7 @@ Blog coming soon!
     {% else %}
     {{ site.author }}
     {% endif %}  &middot;
-    {% include read_time.html content=post.content %}
+    {{ post.read_time }} min read
   </p>
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     <h2 class="post-title">{{ post.title }}</h2>

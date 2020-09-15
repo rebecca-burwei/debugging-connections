@@ -6,9 +6,17 @@ background: '/img/bg-collab.jpg'
 form: true
 ---
 
+# Who is Debugging Connections?
+
+*Debugging Connections*, the blog, was started by Rebecca BurWei in Sept 2020, but I've been dreaming about these ideas for much longer. 
+
+I am a second-generation tech worker, child of im/migrants, beneficiary of reverse migration, East Asian, cishet woman grounded in the US Midwest.
+
+If the ideas on this blog resonate with you, I'm very open to working together and growing the *Debugging Connections* crew. Please [reach out](mailto:{{ site.email }}?subject=let's work together).
+
 # Want to collaborate? 
 
-We're open to creative ideas from data deep dives to facilitating workshops. We're up for almost anything that aligns with our [vision and scope]({{ site.baseurl }}{% link about.md %}).
+*Debugging Connections* is open to creative ideas from data deep dives to facilitating workshops. We're up for pretty much anything that aligns with the [vision and scope]({{ site.baseurl }}{% link about.md %}).
 
 We're especially interested in:
 * Community discussions related to blog post topics
