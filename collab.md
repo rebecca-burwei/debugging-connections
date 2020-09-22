@@ -6,17 +6,17 @@ background: '/img/bg-collab.jpg'
 form: true
 ---
 
-# Who is Debugging Connections?
+# Who works on Tech Transplanted?
 
-*Debugging Connections*, the blog, was started by Rebecca BurWei in Sept 2020, but I've been dreaming about these ideas for much longer. 
+*Tech Transplanted*, the blog, was started by Rebecca BurWei in Sept 2020, but I've been dreaming about these ideas for much longer. 
 
-I am a second-generation tech worker, child of im/migrants, beneficiary of reverse migration, East Asian, cishet woman grounded in the US Midwest.
+I am a second-generation tech worker, child of im/migrants, beneficiary of return migration, East Asian, cishet woman grounded in the US Midwest.
 
-If the ideas on this blog resonate with you, I'm very open to working together and growing the *Debugging Connections* crew. Please [reach out](mailto:{{ site.email }}?subject=let's work together).
+If the ideas on this blog resonate with you, I'm very open to working together and growing the *Tech Transplanted* crew. Please [reach out](mailto:{{ site.email }}?subject=let's work together).
 
 # Want to collaborate? 
 
-*Debugging Connections* is open to creative ideas from data deep dives to facilitating workshops. We're up for pretty much anything that aligns with the [vision and scope]({{ site.baseurl }}{% link about.md %}).
+*Tech Transplanted* is open to creative ideas from data deep dives to facilitating workshops. We're up for pretty much anything that aligns with the [vision and scope]({{ site.baseurl }}{% link about.md %}).
 
 We're especially interested in:
 * Community discussions related to blog post topics

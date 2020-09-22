@@ -16,15 +16,15 @@ Are your co-workers im/migrants? Do you think about becoming an expat[^2]? This 
 
 Why do some people move to jobs, some jobs move to people, and other jobs get automated? More importantly, what is the point of all this movement of people and technology? Who benefits from this movement, and what social connections are we building along the way?<br />
 
-On *Debugging Connections*, we dig deep into how workers across the tech industry are connected. We decolonize and de-modularize the ways we’re used to seeing each other. We recognize that upholding international power hierarchies, nationalism and borders benefit some of us in the short term and harms all of us in the long run. <br />
+On *Tech Transplanted*, we dig deep into how workers across the tech industry are connected. We decolonize and de-modularize the ways we’re used to seeing each other. We recognize that upholding international power hierarchies, nationalism and borders benefit some of us in the short term and harms all of us in the long run. <br />
 
-To restore connections, we:
+To restore our connections, we:
 
 * Search for the relationships lost in migration, 
 * Liquify social capital, and
 * Share knowledge.
 
-*Debugging Connections* is a conversation. We practice community and learn from one another's experiences. You are welcome to [join in]({{ site.baseurl }}{% link posts/index.html %}) or [propose a collaboration]({{ site.baseurl }}{% link collab.md %})!<br /><br /><br /><br />
+*Tech Transplanted* is a conversation. We practice community and learn from one another's experiences. You are welcome to [join in]({{ site.baseurl }}{% link posts/index.html %}) or [propose a collaboration]({{ site.baseurl }}{% link collab.md %})!<br /><br /><br /><br />
 
 ## Footnotes
 <ol start="0">
