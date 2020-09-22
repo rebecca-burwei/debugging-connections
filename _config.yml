@@ -7,6 +7,9 @@ url:                "https://rebecca-burwei.github.io"
 
 # Google Analytics
 google_analytics:   UA-149276100-2
+linker_domain_1: rebecca-burwei.github.io
+linker_domain_2: techtransplanted.com
+linker_domain_3: www.techtransplanted.com
 
 # Build settings
 markdown:           kramdown
