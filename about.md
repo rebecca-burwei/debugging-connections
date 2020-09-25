@@ -23,7 +23,7 @@ To restore our connections, we:
 * Liquify social capital, and
 * Share knowledge.
 
-*Tech Transplanted* is a conversation. We practice community and learn from one another's experiences. You are welcome to [join in]({{ site.baseurl }}{% link posts/index.html %}) or [propose a collaboration]({{ site.baseurl }}{% link collab.md %})!<br /><br />
+*Tech Transplanted* is a conversation. We practice community and learn from one another's experiences. You are welcome to [join in]({{ site.baseurl }}) or [propose a collaboration]({{ site.baseurl }}{% link collab.md %})!<br /><br />
 
 ## Image credits
 * Royal Sumikat, <ins>[Future Tribez](https://alternateroyality.com/portfolio/murals/)</ins>.
