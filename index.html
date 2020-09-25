@@ -15,7 +15,7 @@ background: '/img/bg-index.jpg'
     {% else %}
     {{ site.author }}
     {% endif %}  &middot;
-    {{ post.read_time }} min read
+    {% include read_time.html  content=post.content %}
   </p>
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     <h2 class="post-title">{{ post.title }}</h2>
