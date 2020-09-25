@@ -5,8 +5,6 @@ description: or just say hello :)
 background: '/img/bg-collab.jpg'
 form: true
 ---
-*Image credit:* Frida Kahlo, <ins>[Las Dos Fridas](https://es.wikipedia.org/wiki/Las_dos_Fridas)</ins>.
-
 # Who works on Tech Transplanted?
 
 *Tech Transplanted*, the blog, was started by Rebecca BurWei in Sept 2020, but I've been dreaming about these ideas for much longer. 
@@ -30,3 +28,6 @@ Just [drop us a line](mailto:{{ site.email }}?subject=let's work together)!
 * Interactive workshop - *What is socialism?*, Jan 2020, <ins>[slides](https://docs.google.com/presentation/d/15OZBm5u9et7mXgUmYk1W_-7DmUQCeiXbnhjioAMHz8Q/edit?usp=sharing)</ins>.
 * House party - Tech Workers for Justice in Chicago, Feb 2018.
 * Build open-source community - City Scrapers, Aug 2017 - Sept 2018, <ins>[repo](https://github.com/City-Bureau/city-scrapers#city-scrapers)</ins>.
+
+## Image credits
+* Frida Kahlo, <ins>[Las Dos Fridas](https://es.wikipedia.org/wiki/Las_dos_Fridas)</ins>.
